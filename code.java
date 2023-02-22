@@ -9,7 +9,7 @@ public class GFG {
 
 		// Declaring and initializing variable representing
 		// number of rows to be printed
-		int k = 13;
+		int k = 14;
 
 		// Nested 2 for loops for iterating over the matrix
 
