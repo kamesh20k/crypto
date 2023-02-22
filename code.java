@@ -9,7 +9,7 @@ public class GFG {
 
 		// Declaring and initializing variable representing
 		// number of rows to be printed
-		int k = 12;
+		int k = 13;
 
 		// Nested 2 for loops for iterating over the matrix
 
@@ -22,7 +22,7 @@ public class GFG {
 
 				// Print the white space
 				System.out.print(" ");
-			}
+			
 
 			// Inner for loop for iterating over columns
 			// where we are printing white spaces
